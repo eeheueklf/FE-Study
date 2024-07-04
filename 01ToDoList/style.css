@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'AppleSDGothicNeoL';
+    src: url('AppleSDGothicNeoUL.ttf'); 
+}
+
+:root{
+    --border : rgb(85, 85, 85, 0.7)
+}
+
+body {
+    font-family: 'AppleSDGothicNeoL';
+}
+
+
+body, html{
+    margin : 0;
+}
+
+.header{
+    width : 60vw;
+    height : 100px;
+    margin : 0 auto;
+    display: flex;
+}
+
+.body{
+    width : 60vw;
+    height : 700px;
+    margin : 0 auto;
+}
+
+/* header */
+h1{
+    margin-left: 40px; 
+}
+#month{
+    margin : 40px 0 0 15px;  /* 년도와 띄우기 */
+}
+
+#month span {
+    margin: 0 7px; /* 숫자 간의 간격 조절 */
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th{
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    font-size: small;
+    font-weight: 600;
+    padding: 5px;
+}
+
+td{
+    height : 300px;
+    border-bottom: 1px solid var(--border);
+    border-left: 1px solid var(--border);
+    border-right: 1px solid var(--border);
+    padding: 20px 0 0 10px ;
+    vertical-align : top; 
+    /* 체크박스 위로 정렬 */
+}
+
+textarea {
+    width: 95%;
+    height: 90%;
+    border: none;
+    resize: none;	
+    outline-color: white;
+}
+
+label{
+    font-size: 13px;
+    vertical-align: top;
+}
