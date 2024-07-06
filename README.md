@@ -18,3 +18,12 @@
   ![image](https://github.com/eeheueklf/FE-Study/assets/92643238/d3c02b58-d021-42fe-abd6-72d3a40b315e)
   
 </details>
+ <details>
+  <summary>02 달력 만들기</summary>
+  
+  ```01 To-do 리스트와 비슷한 느낌으로 달력을 만들었다.```  
+  ```추후 JS를 사용하여 현재 달, 이전 다음 달에 맞게 출력되는 기능을 추가할 예정이다.```  
+  
+  ![02C](https://github.com/eeheueklf/FE-Study/assets/92643238/c3fcc0a7-f27a-4a8f-ad4b-2827464c297d)
+
+</details>
