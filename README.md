@@ -8,7 +8,7 @@
  
  > HTML, CSS 사용한 사이트 만들기
 > 
- <details>
+<details>
   <summary>01 일주일 To-do 리스트 만들기</summary>
   
   ```HTML, CSS만을 사용하여 간단한 일주일 To-do 리스트를 만들었다.```  
@@ -18,12 +18,22 @@
   ![image](https://github.com/eeheueklf/FE-Study/assets/92643238/d3c02b58-d021-42fe-abd6-72d3a40b315e)
   
 </details>
- <details>
+<details>
   <summary>02 달력 만들기</summary>
   
   ```01 To-do 리스트와 비슷한 느낌으로 달력을 만들었다.```  
   ```추후 JS를 사용하여 현재 달, 이전 다음 달에 맞게 출력되는 기능을 추가할 예정이다.```  
   
 ![02C](https://github.com/eeheueklf/FE-Study/assets/92643238/99a5cc08-cdd1-4a7d-9b6c-18592bb29f8f)
+
+</details>
+<details>
+  <summary>03 계산기 만들기</summary>
+
+  ```3D 계산기를 만들었다 ~~ ```  
+  ```계산기 기능 추가 예정 ~!```
+  
+![03C](https://github.com/eeheueklf/FE-Study/assets/92643238/a81a908b-49e7-4409-8bc6-472a8950218d)
+
 
 </details>
