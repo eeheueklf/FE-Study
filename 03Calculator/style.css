@@ -1,0 +1,101 @@
+@font-face {
+    font-family: 'AppleSDGothicNeoL';
+    src: url('AppleSDGothicNeoUL.ttf'); 
+}
+
+:root{
+    --border : rgb(85, 85, 85, 0.7)
+}
+
+body {
+    font-family: 'AppleSDGothicNeoL';
+}
+
+
+body, html{
+    margin : 0;
+}
+
+.header{
+    width : 500px;
+    height : 150px;
+    margin : 0 auto;
+    margin-top: 30px;
+    display: flex;
+}
+
+.body{
+    width : 400px;
+    height : 600px;
+    margin : 0 auto;
+}
+
+/* header */
+
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: separate;
+    padding: 10px;
+    border: 5px solid black;
+    background-color: rgb(255, 255, 244);
+    box-shadow: 1px 1px 0, 2px 2px 0, 3px 3px 0, 5px 5px 0,6px 6px 0;
+}
+
+th{
+    font-size: small;
+    font-weight: 600;
+    padding: 5px;
+    height : 67.19px;
+}
+
+td{
+    height : 67.19px;
+    padding: 5px;
+    vertical-align : top; 
+    /* 체크박스 위로 정렬 */
+}
+
+.space {
+    height : 30px;
+    border:none;
+}
+
+input{
+    color:#000;
+    background-color: rgb(243, 243, 227);
+    width : 100%;
+    height : 100%;
+    line-height:40px;
+    font-size:21px;
+    font-weight:900;
+    letter-spacing:3px;
+    text-transform:inherit;
+    position: relative;
+    border-radius: 10px;
+    border:5px solid #000;
+    box-shadow: 1px 1px 0, 2px 2px 0, 3px 3px 0, 4px 4px 0,5px 5px 0;
+}
+
+input:active{
+    top:5px;
+    left:5px;
+    box-shadow:0 0 0 0;
+ }
+
+.window{
+    box-shadow: 0 0 0 0;
+    top:5px;
+    left:5px;
+    background-color: rgb(255, 255, 255);
+}
+
+.blue{
+    /* border-color: rgb(0, 183, 255); */
+    background-color: rgb(0, 183, 255);
+}
+.red{
+    /* border-color: rgb(255, 0, 106); */
+    background-color: rgb(255, 0, 106);
+}
