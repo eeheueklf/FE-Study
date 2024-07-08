@@ -52,18 +52,29 @@ body, html{
 
 .container {
     position: absolute;
-    top : 300px;
+    top : 200px;
     width : 100%;
     display: flex;
     justify-content: center;
-}
-.quiz a{   
-    text-decoration: none;
-    color : black;
+    font-size: 18px;
 }
 
-.quiz a:hover{   
-    color : #FEDF43;
+.quiz p{
+    padding : 10px;
+}
+.answer{
+    width : 420px;
+    font-size: 17px;
+    padding : 10px;
+    margin : 10px;
+    border-radius: 30px;
+}
+
+.answer:hover{
+    background-color: black;
+    color : white;
+    padding : 10px;
+    margin : 10px;
+    border-radius: 30px;
     cursor: pointer;
 }
-
