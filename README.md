@@ -35,5 +35,15 @@
   
 ![03C](https://github.com/eeheueklf/FE-Study/assets/92643238/a81a908b-49e7-4409-8bc6-472a8950218d)
 
+</details>
+
+<details>
+  <summary>04 Quiz 만들기</summary>
+
+  ```포켓몬 성격 테스트를 만들어봤다 ```  
+  ```말풍선과 에몽가 이미지를 활용해서 테스트 디자인을 해보았다. ```  
+  ```퀴즈 기능 추가 예정 ~ ```  
+  
+![04Q](https://github.com/eeheueklf/FE-Study/assets/92643238/c919a543-4e26-4322-86ff-d524727fdf3d)
 
 </details>
