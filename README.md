@@ -47,3 +47,14 @@
 ![04Q](https://github.com/eeheueklf/FE-Study/assets/92643238/c919a543-4e26-4322-86ff-d524727fdf3d)
 
 </details>
+
+<details>
+  <summary>05 To Do List With JS</summary>
+
+  ```오늘 날짜를 표시해주는 기능, +Plan 을 누르면 새로운 할 일 항목을 추가하는 기능을 JS로 구현했다 ```  
+  ```디자인은 노션 느낌이 나게 해봤다 ```  
+
+  ![05TodoList](https://github.com/eeheueklf/FE-Study/assets/92643238/546a85b7-0563-41ec-8dad-336692addef4)
+
+
+</details>
