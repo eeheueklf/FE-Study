@@ -1,0 +1,112 @@
+@font-face {
+    font-family: 'AppleSDGothicNeoL';
+    src: url('AppleSDGothicNeoL.ttf'); 
+}
+
+:root{
+    --border : rgb(85, 85, 85, 0.7)
+}
+
+body {
+    font-family: 'AppleSDGothicNeoL';
+}
+
+
+body, html{
+    margin : 0;
+}
+
+.header{
+    width : 100vw;
+    height : 30px;
+    /* background-color: black; */
+    border-bottom: 1px solid #ebebeb;
+}
+
+.body{
+    width : 45vw;
+    height : 700px;
+    margin : 0 auto;
+    margin-top : 100px;
+}
+
+/* header */
+.header h1{
+    font-size: 19px;
+    margin-left: 40px; 
+    margin-top:5px;
+}
+.title{
+    width : 70vw;
+    margin : 0 auto;
+}
+
+/* body */
+
+.addPlan{
+    border: 1px solid #dddddd;
+    background-color: white;
+    padding: 5px 10px;
+    border-radius: 7px;
+    font-size: 15px;
+    cursor: pointer;
+    box-shadow: 1px 1px #dddddd;
+}
+
+.addPlan:active{
+    box-shadow:0 0 0 0;
+}
+
+/* 영역 설정 */
+.content{
+    display: flex;
+    margin-top: 50px;
+}
+.todoList{
+    width : 40%;
+}
+.memo{
+    width : 40%;
+    margin-left : 50px;
+}
+.sticker{
+    border:1px solid #dddddd;
+    border-radius: 5px;
+    padding : 15px 20px;
+    margin-bottom: 10px;
+}
+
+
+
+
+.todo{
+    width: 100%;
+    height : 20px;
+    padding: 10px 0;
+}
+
+.lst{
+    border-bottom: 1px solid #dddddd;
+}
+
+.todo input[type="checkbox"] {
+    cursor: pointer;
+    accent-color: rgb(0, 0, 0);
+    margin: 5px;
+    border-radius: 3px;
+}
+
+.todo input[type="text"]{
+    font-size: 14px;
+    border:none;
+    outline:none;
+}
+
+.todo input[type="text"]::placeholder{
+    color : #8d8d8d;
+}
+
+.sticker p{
+    padding : 0;
+    margin : 5px;
+}
