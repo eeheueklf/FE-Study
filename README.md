@@ -56,5 +56,11 @@
 
   ![05TodoList](https://github.com/eeheueklf/FE-Study/assets/92643238/546a85b7-0563-41ec-8dad-336692addef4)
 
+</details>
 
+<details>
+  <summary>06 Weekly with JS</summary>
+
+  ```일주일 날짜를 표시해주는 기능을 추가하여 주간계획표를 만들었다 ```  
+![06Weekly](https://github.com/eeheueklf/FE-Study/assets/92643238/6352351c-5cb4-4b2c-a0c4-0b6cddbbcb36)
 </details>
