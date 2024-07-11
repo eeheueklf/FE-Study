@@ -28,12 +28,14 @@
 
 </details>
 <details>
-  <summary>03 계산기 만들기</summary>
+  <summary>03, 07 계산기 만들기</summary>
 
   ```3D 계산기를 만들었다 ~~ ```  
-  ```계산기 기능 추가 예정 ~!```
+  ```계산기 기능 추가 완료 ~!```
   
-![03C](https://github.com/eeheueklf/FE-Study/assets/92643238/a81a908b-49e7-4409-8bc6-472a8950218d)
+![07C+](https://github.com/eeheueklf/FE-Study/assets/92643238/4e1dbf2f-748d-49bf-a673-856ab2bcd97b)
+
+
 
 </details>
 
